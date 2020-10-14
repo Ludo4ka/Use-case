@@ -3,8 +3,11 @@ Use-case для сайта klm.com
 
 
 Use-case1 Регистрация пользователя на сайте klm.com
+
 Theme	Регистрация пользователя на сайте  https://www.klm.com
+
 Document status	FINAL
+
 Document owner	Людмила Шушакова
 
 Цель: Зарегистрироваться на сайте https://www.klm.com
